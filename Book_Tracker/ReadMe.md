@@ -16,30 +16,24 @@ This is a Google Sheets-based Book Tracker that I built using advanced Excel fun
 
 📄 Individual Book Details including:
 
-  Author
-  
-  Recommended By
-  
-  Total Pages
-  
-  Genre
-  
-  Personal Review
-  
-  Status Progress Bar
-  
-  "Who Should Read This?" suggestions
+1. Author
+2. Recommended By
+3. Total Pages
+4. Genre
+5. Personal Review
+6. Status Progress Bar
+7. "Who Should Read This?" suggestions
 
 📈 Tech Highlights:
-FILTER, SORT, ARRAYFORMULA, COUNTIF, TEXT, and other dynamic functions
 
-Color-coded status bars, dropdown filters, and custom icons
-
-Charts built natively in Google Sheets for a fully automated dashboard
-
-No scripts or add-ons—just powerful spreadsheet logic!
+1. FILTER, SORT, ARRAYFORMULA, COUNTIF, TEXT, and other dynamic functions
+2. Color-coded status bars, dropdown filters, and custom icons
+3. Charts built natively in Google Sheets for a fully automated dashboard
+4. No scripts or add-ons—just powerful spreadsheet logic!
 
 <img width="1853" height="681" alt="image" src="https://github.com/user-attachments/assets/6188c271-9597-474d-9164-4bde8e904daa" />
+
+Link- https://docs.google.com/spreadsheets/d/1pTnJwB6TWBcp4y2xvciHl1yi44S3cYYN29o9nA2k6cA/edit?usp=sharing
 
 💡 Why I Built This
 To streamline my reading journey and apply analytical thinking to personal growth. It also showcases my data analysis and dashboarding skills using spreadsheet tools alone—no external BI platforms needed.
