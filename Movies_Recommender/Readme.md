@@ -3,6 +3,7 @@
 Welcome to the **Movie Recommender Dashboard** — a dynamic and interactive movie tracker and recommendation tool built in **Google Sheets**! Designed for movie lovers, YouTubers, and casual viewers alike, this dashboard helps you track every movie you watch, rate them, and later share top recommendations with your subscribers, friends, or family.
 
 <img width="1851" height="783" alt="image" src="https://github.com/user-attachments/assets/3a2ea655-f747-483c-8e45-dc097384b50d" />
+<img width="1864" height="775" alt="image" src="https://github.com/user-attachments/assets/7ab38e06-32ff-41e1-83db-af3b326dd7a7" />
 
 ---
 
